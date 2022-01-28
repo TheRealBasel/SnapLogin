@@ -3,20 +3,20 @@ import { getAuth, signInWithEmailAndPassword, signOut } from "firebase/auth";
 
 const firebaseConfig = {
 
-	apiKey: "AIzaSyAFnzwqVvOTnNqLc46SsgGz_uOImeRC3F4",
+	apiKey: "",
   
-	authDomain: "snapchat-82b46.firebaseapp.com",
+	authDomain: "",
   
-	projectId: "snapchat-82b46",
+	projectId: "",
   
-	storageBucket: "snapchat-82b46.appspot.com",
+	storageBucket: "",
   
-	messagingSenderId: "330293453361",
+	messagingSenderId: "",
   
-	appId: "1:330293453361:web:9d5b834a822121fb32eb10",
+	appId: "",
   
-	measurementId: "G-PK6F09SPGF",
-	databaseURL: "https://snapchat-82b46-default-rtdb.europe-west1.firebasedatabase.app",
+	measurementId: "",
+	databaseURL: "",
   
 };
     
